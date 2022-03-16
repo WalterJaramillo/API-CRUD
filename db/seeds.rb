@@ -1,6 +1,6 @@
 Campeon.create({
-    nombre: 'ryze',
-    region: 'noxus',
-    rol: 'Mago',
-    comp: "Magos"
+    nombre: 'Malphite',
+    region: 'soacha',
+    rol: 'Ñero',
+    comp: "Ñeros"
 })
